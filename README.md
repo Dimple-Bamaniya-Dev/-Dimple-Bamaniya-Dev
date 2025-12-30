@@ -70,7 +70,7 @@ I have worked on **small to large projects**, following **Agile methodology**, a
 - Built customer data and management modules  
 - Created reusable Angular components  
 - Implemented secure and scalable backend services  
-- Collaborated with team in Agile sprints  
+- Collaborated in Agile sprints  
 
 ---
 
@@ -90,25 +90,9 @@ I have worked on **small to large projects**, following **Agile methodology**, a
 **Type:** Enterprise HR Application  
 
 - Developed employee and HR-related modules  
-- Implemented REST APIs and Angular integration  
+- Implemented REST APIs with Angular integration  
 - Used Swagger & Postman for testing  
 - Ensured secure and role-based access  
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dimple-Bamaniya-Dev&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimple-Bamaniya-Dev&layout=compact&theme=default)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dimple-Bamaniya-Dev&theme=default)
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Dimple-Bamaniya-Dev&theme=flat&no-frame=true)
 
 ---
 
@@ -127,7 +111,10 @@ I have worked on **small to large projects**, following **Agile methodology**, a
 ---
 
 ## 📫 Contact
-💼 Open to collaboration and opportunities  
-📍 Software Developer | .NET | Angular
+
+📧 **Email:** [jobs.dimple.bamaniya@gmail.com](mailto:jobs.dimple.bamaniya@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/dimple-bamaniya](https://www.linkedin.com/in/dimple-bamaniya)  
+
+---
 
 ⭐ **Thank you for visiting my GitHub profile!**
